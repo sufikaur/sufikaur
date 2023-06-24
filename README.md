@@ -4,7 +4,7 @@
 
 ### About Me
 
-I'm a 3rd-year undergraduate student working towards a combined BS/MS in Computer Science and Cognitive Psychology at Northeastern University
+I'm a 4th-year undergraduate student working towards a combined BS/MS in Computer Science and Cognitive Psychology at Northeastern University
 
 Im passionate about understanding, critiquing, and promoting transparency in aritifical intellegence algorithms, as well as connecting psychological theories in areas including childhood development, cognition, morality, and memory to computing. 
 
